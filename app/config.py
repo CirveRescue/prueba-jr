@@ -1,0 +1,2 @@
+class Config:
+    CHUCK_NORRIS_API_URL = "https://api.chucknorris.io/jokes"
